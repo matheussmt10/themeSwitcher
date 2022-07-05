@@ -30,7 +30,7 @@ input {
     align-items: center;
     display: flex;
     cursor: pointer;
-    background-image: url(assets/moon.svg), url(assets/sun.svg);
+    background-image: url(moon.svg), url(sun.svg);
     background-position: 5px, 155px;
     background-size: 85px;
     
